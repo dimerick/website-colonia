@@ -1,0 +1,4 @@
+CREATE DATABASE medcup DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
+CREATE USER 'admin_medcup'@'localhost' IDENTIFIED BY 'torneo2018';
+GRANT ALL PRIVILEGES ON medcup.* TO 'admin_medcup'@'localhost';
+FLUSH PRIVILEGES;
