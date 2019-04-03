@@ -1,3 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
 body{
   overflow-x: hidden;
 }
@@ -352,7 +360,7 @@ footer{
     width: 100%;
   }
 }
-.card img{
+.cont-programs .card img{
 cursor: pointer;
 }
 
@@ -574,7 +582,7 @@ height: 5%;
 }
 
 .section-page{
-  margin-top: 60px;
+  margin-top: 100px;
 }
 
 @media (max-width: 767px){
@@ -603,7 +611,7 @@ height: 5%;
 .card-body p{
   font-family: 'Open Sans', sans-serif;
 }
-.card{
+.cont-programs .card{
   cursor: pointer;
 }
 .modal-content p, b{
@@ -614,7 +622,7 @@ height: 5%;
 
 /*Footer*/
 footer.page-footer{
-  margin-top: 100px;
+  margin-top: 150px;
   padding-top: 50px!important;
 }
 footer h3{
@@ -786,3 +794,35 @@ footer h3{
   margin-top: 30px;
 }
 /*Documentos rendicion de cuentas*/
+
+.section-page h1{
+  background-color: #00be54!important;
+  color: white!important;
+}
+.divider {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+
+.parallax { 
+  /* The image used */
+  background-image: url("../images/parque-san-luis.jpg");
+
+  /* Set a specific height */
+  /*height: 1000px; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0px;
+}
+#quienes-somos{
+color: white!important;
+text-align: center;
+font-size: 1.5em;
+}

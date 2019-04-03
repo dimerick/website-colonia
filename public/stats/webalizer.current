@@ -1,0 +1,1370 @@
+# Webalizer V2.23-08 Incremental Data - 03/31/2019 19:08:39
+2019 3 31 19 8 39
+2094 1583 263 126 40 66 92662714 514 399 0 0 0
+1 15 103 1 31
+65 42 1694408 15 18 16 0 0
+90 65 3680735 12 14 11 0 0
+58 49 1271691 10 12 10 0 0
+16 14 142013 11 14 12 0 0
+85 78 3941189 9 14 11 0 0
+15 10 493410 14 12 12 0 0
+84 81 1848795 10 8 8 0 0
+46 41 792041 15 12 11 0 0
+40 26 743060 14 16 14 0 0
+10 8 1773503 6 7 6 0 0
+9 9 1766847 6 6 5 0 0
+52 21 987339 15 15 12 0 0
+55 34 1525844 28 30 28 0 0
+143 126 7061169 10 10 8 0 0
+168 128 7607562 26 26 15 0 0
+40 23 150099 19 20 19 0 0
+5 3 15163 5 3 3 0 0
+67 46 3102993 12 13 11 0 0
+119 103 3620994 22 17 16 0 0
+143 139 17781647 25 22 16 0 0
+30 30 880855 7 6 6 0 0
+116 79 4124737 20 35 24 0 0
+85 32 1310291 21 67 29 0 0
+5 5 22123 4 4 4 0 0
+48 43 2775293 9 11 10 0 0
+88 68 9474720 14 22 22 0 0
+70 45 1905637 11 13 9 0 0
+60 51 4142503 10 9 8 0 0
+85 49 1815955 14 28 22 0 0
+151 113 4533915 12 21 17 0 0
+46 22 1676183 1 9 4 0 0
+93 83 4253799 18 0 0
+272 228 22418007 36 0 0
+83 73 3203005 15 0 0
+115 109 5667465 11 0 0
+22 18 742693 14 0 0
+64 36 2972384 15 0 0
+51 24 3706814 18 0 0
+37 34 4136299 15 0 0
+37 22 1087428 16 0 0
+45 15 1068726 18 0 0
+31 25 2266049 14 0 0
+75 50 3076940 15 0 0
+26 20 165698 21 0 0
+119 92 4166056 31 0 0
+112 77 5062431 30 0 0
+97 68 3203482 30 0 0
+166 146 3545682 27 0 0
+80 62 1602492 17 0 0
+191 141 8011821 38 0 0
+111 43 3445811 56 0 0
+57 48 902065 10 0 0
+87 65 4211951 19 0 0
+80 72 3302433 14 0 0
+43 32 443183 16 0 0
+0
+0
+0
+1583
+0
+0
+0
+0
+0
+1
+0
+12
+0
+0
+127
+0
+0
+0
+0
+0
+0
+371
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/images/turismo/fiestas_del_retorno.jpg
+1 1 0 86472 0 0 0 0
+/assets/images/turismo/caminera_balseadero.jpg
+1 2 0 149377 0 0 0 0
+/assets/js/proj4leaflet.js
+0 13 0 37025 0 0 0 0
+/mapa-turistico
+0 28 0 184915 15 7 0 0
+/assets/images/maps/openstreetmap.png
+1 3 0 75006 0 0 0 0
+/assets/font/roboto/Roboto-Medium.woff2
+0 1 0 50477 0 0 0 0
+/assets/css/bootstrap.min.css
+0 32 0 712338 0 0 0 0
+/assets/js/map.js
+0 17 0 17733 0 0 0 0
+/assets/images/slider/slider1.jpg
+1 17 0 3521616 0 0 0 0
+/assets/images/programas/atencion-psico.jpg
+1 12 0 2077632 0 0 0 0
+/assets/images/turismo/charco_nazario.jpg
+1 2 0 161844 0 0 0 0
+/assets/images/turismo/charco_la_isla.jpg
+1 1 0 82692 0 0 0 0
+/assets/images/turismo/efemerides_san_luisanas.jpg
+1 2 0 106760 0 0 0 0
+/documentation/cesar.pdf
+0 22 0 482177 0 0 0 0
+/documentation/ContraloriaAndrea.pdf
+0 2 0 172128 0 0 0 0
+/assets/img//svg/arrow_right.svg
+0 21 0 10337 0 0 0 0
+/documentation/Andrea.pdf
+0 5 0 702741 0 0 0 0
+/documentation/procuraduriaNinsa.pdf
+0 4 0 60426 0 0 0 0
+/documentation/ActadeConstitucionColonia.pdf
+0 13 0 13033696 0 0 0 0
+/assets/images/search-icon.png
+1 13 0 49539 0 0 0 0
+/assets/images/turismo/fiestas_del_campesino.jpg
+1 1 0 64158 0 0 0 0
+/assets/images/programas/procesos-dep-cult.jpg
+1 12 0 3019212 0 0 0 0
+/documentation/CertificadodeExistenciaColonia.pdf
+0 5 0 5173552 0 0 0 0
+/assets/images/turismo/el_faisan.jpg
+1 1 0 69352 0 0 0 0
+/assets/images/icon-fullscreen.png
+1 11 0 4544 0 0 0 0
+/assets/js/leaflet.js
+0 23 0 779382 0 0 0 0
+/documentation/ContraloriaCesar.pdf
+0 17 0 174742 0 0 0 0
+/assets/images/maps/satellite.png
+1 18 0 540398 0 0 0 0
+/assets/images/turismo/rio_caldera.jpg
+1 1 0 74493 0 0 0 0
+/assets/js/popper.min.js
+0 31 0 219707 0 0 0 0
+/assets/images/turismo/caverna_corinto.jpg
+1 1 0 75292 0 0 0 0
+/assets/images/turismo/charco_el_trampolin.jpg
+1 1 10 76937 0 0 0 0
+/documentation/alex.pdf
+0 2 0 468016 0 0 0 0
+/assets/images/turismo/sendero_el_tambo.jpg
+1 1 0 85875 0 0 0 0
+/documentation/informeDeGestionColonia.pdf
+0 3 0 468192 0 0 0 0
+/assets/css/Control.FullScreen.css
+0 14 0 8634 0 0 0 0
+/assets/images/turismo/charco_la_planta.jpg
+1 3 0 249656 0 0 0 0
+/assets/images/turismo/sendero_calle_del_tigre.jpg
+1 2 0 152986 0 0 0 0
+/assets/favicon/favicon-96x96.png
+1 1 0 12299 0 0 0 0
+/assets/favicon/favicon-32x32.png
+1 18 0 56022 0 0 0 0
+/favicon.ico
+0 4 0 1146 0 0 0 0
+/assets/images/map-icon-red.png
+1 14 0 22232 0 0 0 0
+/assets/images/turismo/tradicion_arriera.jpg
+1 2 0 153721 0 0 0 0
+/assets/images/turismo/abrigo_rocoso.jpg
+1 1 0 61900 0 0 0 0
+/assets/images/turismo/rio_samana.jpg
+1 1 0 108749 0 0 0 0
+/assets/js/proj4.js
+0 14 0 549544 0 0 0 0
+/assets/images/turismo/parque_educativo.jpg
+1 2 0 125574 0 0 0 0
+/assets/images/turismo/quebrada_la_cristalina.jpg
+1 1 0 94256 0 0 0 0
+/assets/js/Control.FullScreen.js
+0 14 0 26994 0 0 0 0
+/documentation/EstadosFinancierosColonia.pdf
+0 2 0 286006 0 0 0 0
+/assets/favicon/manifest.json
+0 1 0 1002 0 0 0 0
+/assets/fonts/fontawesome-webfont.woff2
+0 24 0 1857939 0 0 0 0
+/documentation/procuraduriaCesar.pdf
+0 21 0 33498 0 0 0 0
+/assets/font/roboto/Roboto-Bold.woff2
+0 3 0 150689 0 0 0 0
+/assets/css/leaflet.css
+0 24 0 74419 0 0 0 0
+/documentation/MarthaRincon.pdf
+0 19 0 470724 0 0 0 0
+/documentation/DeclaraciondeRentas.pdf
+0 1 0 114815 0 0 0 0
+/documentation/ContraloriaRobinson.pdf
+0 1 0 86062 0 0 0 0
+/documentation/ContraloriaAlexDuque.pdf
+0 1 0 86066 0 0 0 0
+/assets/favicon/android-icon-192x192.png
+1 3 0 93411 0 0 0 0
+/assets/js/menu.js
+0 24 0 12100 0 0 0 0
+/assets/js/leaflet-search.js
+0 14 0 121395 0 0 0 0
+/assets/images/turismo/laguna_alto_pavas.jpg
+1 1 0 69579 0 0 0 0
+/assets/js/iconLayers.js
+0 23 0 62172 0 0 0 0
+/assets/images/header-pages/blog.jpg
+1 23 0 4989812 0 0 0 0
+/assets/js/modal-images.js
+0 26 0 18831 0 0 0 0
+/documentation/procuraduriaRobinson.pdf
+0 6 0 90627 0 0 0 0
+/documentation/ContraloriaNinsa.pdf
+0 2 0 172132 0 0 0 0
+/assets/images/turismo/rio_cocorna_sur.jpg
+1 1 0 60645 0 0 0 0
+/documentation/Diego.pdf
+0 2 0 467098 0 0 0 0
+/assets/images/marker.png
+1 13 0 995154 0 0 0 0
+/rendicion-cuentas
+0 45 0 252314 34 27 0 0
+/assets/font/roboto/Roboto-Regular.woff2
+0 17 0 841319 0 0 0 0
+/assets/img//svg/arrow_left.svg
+0 21 0 10359 0 0 0 0
+/assets/js/jquery-3.2.1.min.js
+0 33 0 1005921 0 0 0 0
+/assets/css/mdb.min.css
+0 28 0 746725 0 0 0 0
+/assets/images/programas/retornos.jpg
+1 13 0 3431051 0 0 0 0
+/assets/images/slider/slider2.jpg
+1 16 0 2707873 0 0 0 0
+/assets/js/bootstrap.js
+0 27 0 529288 0 0 0 0
+/assets/images/icon-fullscreen-2x.png
+1 3 0 1148 0 0 0 0
+/assets/images/turismo/camino_cuba.jpg
+1 1 0 85423 0 0 0 0
+/assets/css/leaflet-search.css
+0 14 0 16541 0 0 0 0
+/assets/images/turismo/parroquia_san_luis.jpg
+1 3 0 217936 0 0 0 0
+/assets/images/turismo/cementerio.jpg
+1 5 0 281529 0 0 0 0
+/documentation/EstatutosColonia.pdf
+0 1 0 2501736 0 0 0 0
+/assets/favicon/favicon-16x16.png
+1 1 0 1859 0 0 0 0
+/documentation/RUTColonia.pdf
+0 17 0 141732 0 0 0 0
+/assets/images/turismo/charco_manizales.jpg
+1 2 0 160631 0 0 0 0
+/documentation/procuraduriaAlex.pdf
+0 21 0 63364 0 0 0 0
+/assets/js/general.js
+0 22 0 12454 0 0 0 0
+/documentation/ContraloriaMartha.pdf
+0 4 0 172476 0 0 0 0
+/documentation/ActadeAsambleaColonia.pdf
+0 2 0 502770 0 0 0 0
+/documentation/Robinson.pdf
+0 3 0 702066 0 0 0 0
+/assets/font/roboto/Roboto-Light.woff2
+0 24 0 1191198 0 0 0 0
+/documentation/CERTIFICACIONES.pdf
+0 3 0 572045 0 0 0 0
+/documentation/ContraloriaDiego.pdf
+0 1 0 86062 0 0 0 0
+/assets/favicon/apple-icon-180x180.png
+1 1 0 29828 0 0 0 0
+/assets/images/turismo/fiestas_patronales.jpg
+1 3 0 238691 0 0 0 0
+/assets/css/leaflet1/MarkerCluster.css
+0 13 0 7505 0 0 0 0
+/assets/css/iconLayers.css
+0 27 0 26250 0 0 0 0
+/assets/images/turismo/arbol_el_cagui.jpg
+1 1 0 63134 0 0 0 0
+/assets/images/programas/proyectos-productivos.jpg
+1 12 0 3270720 0 0 0 0
+/documentation/procuraduriaMartha.pdf
+0 4 0 30559 0 0 0 0
+/
+0 361 0 3204642 327 136 0 0
+/assets/images/logo.png
+1 24 0 676172 0 0 0 0
+/assets/images/turismo/caverna_los_caracoles.jpg
+1 1 0 57296 0 0 0 0
+/assets/images/turismo/tradicion_panelera.jpg
+1 2 0 116353 0 0 0 0
+/documentation/Ninsan.pdf
+0 3 0 701166 0 0 0 0
+/assets/js/leaflet1/leaflet.js
+0 14 0 548468 0 0 0 0
+/assets/images/turismo/cascada_la_cuba.jpg
+1 2 0 126816 0 0 0 0
+/assets/js/mdb.min.js
+0 37 0 2249838 0 0 0 0
+/assets/images/turismo/parque_principal.jpg
+1 2 0 150933 0 0 0 0
+/assets/images/logo-peq.png
+1 23 0 425777 0 0 0 0
+/assets/css/font-awesome.css
+0 27 0 239661 0 0 0 0
+/assets/js/leaflet1/leaflet.markercluster.js
+0 13 0 116507 0 0 0 0
+/documentation/procuraduriaDiego.pdf
+0 1 0 30048 0 0 0 0
+/robots.txt
+0 54 0 15850 0 0 0 0
+/documentation/procuraduriaAndrea.pdf
+0 3 0 90114 0 0 0 0
+/assets/css/leaflet1/MarkerCluster.Default.css
+0 13 0 9378 0 0 0 0
+/assets/images/about-us.jpg
+1 18 0 4533592 0 0 0 0
+/assets/images/programas/asesoria-juridica.jpg
+1 12 0 1228992 0 0 0 0
+/assets/images/turismo/bosques_de_paz.jpg
+1 3 0 332181 0 0 0 0
+/assets/font/roboto/Roboto-Thin.woff2
+0 1 0 48777 0 0 0 0
+/assets/css/style.css
+0 28 0 116873 0 0 0 0
+/assets/images/turismo/cascada_sopetran.jpg
+1 3 0 223422 0 0 0 0
+/assets/css/leaflet1/leaflet.css
+0 13 0 45402 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+191.91.230.201
+0 111 102 5861200 2 1552656625 0 0
+/mapa-turistico
+35.162.19.247
+0 1 1 6925 1 1551617422 0 0
+/
+66.249.64.87
+0 12 9 80173 6 1552182998 0 0
+/
+157.55.39.18
+0 1 1 299 0 0 0 0
+-
+54.186.134.227
+0 1 1 6985 1 1553259429 0 0
+/
+66.249.64.23
+0 14 12 113981 6 1552151667 0 0
+/
+54.191.22.180
+0 1 1 6923 1 1552838055 0 0
+/
+5.188.62.5
+0 1 1 6985 1 1551772324 0 0
+/
+91.206.14.10
+0 1 1 6927 1 1551485304 0 0
+/
+66.249.66.27
+0 18 9 390885 5 1552977500 0 0
+/
+109.201.154.234
+0 1 1 921 1 1552692172 0 0
+/
+109.70.100.23
+0 1 1 6925 1 1552473433 0 0
+/
+66.249.69.83
+0 3 3 23546 0 0 0 0
+-
+69.171.251.14
+0 13 13 777816 1 1553050825 0 0
+/
+188.166.77.34
+0 8 0 268352 0 0 0 0
+-
+46.166.188.249
+0 1 1 919 1 1551511051 0 0
+/
+66.249.69.90
+0 3 2 7459 1 1553044342 0 0
+/
+35.203.245.219
+0 1 1 30999 1 1551424223 0 0
+/
+66.249.64.220
+0 18 14 109802 9 1553592522 0 0
+/
+66.249.64.216
+0 17 12 67053 10 1553596763 0 0
+/
+66.249.64.24
+0 12 12 66301 5 1552182410 0 0
+/
+54.187.14.87
+0 1 1 6977 1 1553517957 0 0
+/
+94.25.228.151
+0 8 0 202184 1 1553370098 0 0
+-
+66.249.88.180
+0 3 3 109533 1 1552087897 0 0
+/mapa-turistico
+173.252.95.22
+0 1 1 4851 1 1552674054 0 0
+/rendicion-cuentas
+54.218.59.233
+0 1 1 6984 1 1551963368 0 0
+/
+128.199.39.16
+0 1 0 33556 1 1551895876 0 0
+-
+34.215.108.120
+0 1 1 6977 1 1553433388 0 0
+/
+190.217.17.178
+0 39 37 931120 1 1551632556 0 0
+/mapa-turistico
+103.27.61.222
+0 1 0 33556 1 1552402025 0 0
+-
+66.249.69.87
+0 1 0 174 0 0 0 0
+-
+46.166.186.194
+0 1 1 915 1 1552736482 0 0
+/
+46.166.188.247
+0 1 1 921 1 1553269016 0 0
+/
+66.249.64.85
+0 16 10 2031971 6 1552120537 0 0
+/
+66.249.64.147
+0 44 31 5693604 11 1553715861 0 0
+/
+5.58.11.215
+0 9 2 296293 1 1551647305 0 0
+/
+66.220.149.38
+0 1 1 216949 0 0 0 0
+-
+46.166.190.162
+0 1 1 913 1 1553282474 0 0
+/
+46.229.168.129
+0 2 2 7200 1 1553762762 0 0
+/
+46.166.186.210
+0 1 1 921 1 1552143299 0 0
+/
+54.213.44.171
+0 1 1 6927 1 1553541725 0 0
+/
+46.229.168.144
+0 1 1 6946 1 1552405156 0 0
+/
+181.137.17.129
+0 52 50 1906753 1 1552959099 0 0
+/mapa-turistico
+54.244.17.13
+0 1 1 6979 1 1551620085 0 0
+/
+109.201.154.248
+0 1 1 262 0 0 0 0
+-
+213.32.109.8
+0 1 0 33556 1 1551864842 0 0
+-
+52.53.201.78
+0 13 13 90114 13 1553890944 0 0
+/
+66.249.88.42
+0 26 20 1378184 1 1552599332 0 0
+/mapa-turistico
+180.163.220.66
+0 13 13 704024 1 1553052329 0 0
+/
+34.219.38.4
+0 1 1 6921 1 1553374854 0 0
+/
+42.236.10.84
+0 4 4 39937 0 0 0 0
+-
+109.70.100.21
+0 1 1 6919 1 1552457744 0 0
+/
+46.166.190.136
+0 1 1 919 1 1553080918 0 0
+/
+109.252.75.109
+0 8 0 202184 1 1553367423 0 0
+-
+188.165.247.174
+0 44 4 1466984 2 1552477884 0 0
+/
+66.249.64.149
+0 50 37 2202354 17 1553624724 0 0
+/
+159.203.164.62
+0 1 1 30996 1 1551520171 0 0
+/
+52.27.230.130
+0 1 1 6985 1 1553602790 0 0
+/
+66.249.69.85
+0 10 9 57607 1 1553044947 0 0
+/
+109.201.152.236
+0 1 1 915 1 1552144059 0 0
+/
+109.70.100.18
+0 1 1 6921 1 1552454121 0 0
+/
+80.241.214.167
+0 6 6 88408 1 1553042002 0 0
+/rendicion-cuentas
+77.247.181.163
+0 1 1 6931 1 1552457984 0 0
+/
+109.201.152.233
+0 1 1 917 1 1551832054 0 0
+/
+66.249.73.90
+0 28 26 418880 9 1553938061 0 0
+/
+42.236.10.124
+0 9 9 598500 1 1553053565 0 0
+/
+46.166.186.224
+0 1 1 913 1 1553966389 0 0
+/
+46.166.137.198
+0 2 2 7861 2 1553300658 0 0
+/
+199.249.230.65
+0 1 1 6923 1 1552456381 0 0
+/
+180.163.220.5
+0 13 13 723851 0 0 0 0
+-
+54.184.204.188
+0 1 1 6979 1 1553092227 0 0
+/
+34.213.224.112
+0 1 1 6987 1 1551704589 0 0
+/
+35.164.3.219
+0 1 1 6981 1 1552395333 0 0
+/
+14.142.64.3
+0 2 2 61658 1 1553886429 0 0
+/
+46.166.186.226
+0 1 1 923 1 1551536337 0 0
+/
+35.161.59.92
+0 1 1 6977 1 1552137594 0 0
+/
+37.115.187.72
+0 1 0 33515 1 1552944016 0 0
+-
+51.77.52.160
+0 5 5 153866 2 1553351173 0 0
+/
+35.193.215.125
+0 1 0 33537 1 1552726941 0 0
+-
+66.249.64.25
+0 8 5 103559 2 1552113914 0 0
+/
+52.35.141.122
+0 1 1 6981 1 1553864535 0 0
+/
+66.249.66.76
+0 11 10 307143 6 1552978673 0 0
+/
+54.202.8.66
+0 1 1 6983 1 1551794116 0 0
+/
+66.249.69.92
+0 1 1 6986 1 1553040164 0 0
+/
+109.201.138.236
+0 1 1 911 1 1553313214 0 0
+/
+18.237.213.46
+0 1 1 6977 1 1552309993 0 0
+/
+195.154.107.52
+0 1 1 30776 1 1553002564 0 0
+/
+38.100.21.69
+0 9 9 409084 1 1552079001 0 0
+/rendicion-cuentas
+176.8.89.33
+0 22 2 733487 1 1551507236 0 0
+/
+35.171.183.188
+0 1 1 30774 1 1553245659 0 0
+/
+94.19.150.216
+0 1 1 30774 1 1551742211 0 0
+/
+185.166.215.19
+0 2 2 13886 1 1553489975 0 0
+/
+187.44.126.204
+0 1 0 33556 1 1553093710 0 0
+-
+46.166.190.148
+0 2 2 1834 2 1553216144 0 0
+/
+195.154.104.212
+0 23 23 546232 1 1553185321 0 0
+/
+66.249.66.75
+0 20 19 1917048 7 1553011724 0 0
+/
+66.249.88.178
+0 5 2 41149 1 1552087894 0 0
+/mapa-turistico
+66.249.66.66
+0 1 1 725 0 0 0 0
+-
+54.214.82.80
+0 1 1 6989 1 1551962859 0 0
+/
+66.220.149.28
+0 1 1 216949 0 0 0 0
+-
+181.56.37.240
+0 12 12 12031104 0 0 0 0
+-
+46.166.190.143
+0 1 1 913 1 1553360769 0 0
+/
+185.104.120.5
+0 1 1 6923 1 1552483240 0 0
+/
+173.208.219.42
+0 1 1 6921 1 1552927000 0 0
+/
+192.99.11.224
+0 21 2 699904 1 1552915843 0 0
+/
+18.237.250.172
+0 1 1 6935 1 1552051943 0 0
+/
+42.236.10.78
+0 5 5 125893 0 0 0 0
+-
+180.163.220.4
+0 10 10 545568 1 1552959545 0 0
+/
+35.161.134.19
+0 1 1 6983 1 1553003181 0 0
+/
+209.17.97.10
+0 1 1 30766 1 1553052040 0 0
+/
+34.211.163.18
+0 1 1 6983 1 1552568963 0 0
+/
+157.55.39.28
+0 1 1 299 0 0 0 0
+-
+40.77.167.210
+0 1 1 4837 1 1552163875 0 0
+/rendicion-cuentas
+46.166.137.217
+0 1 1 919 1 1552009072 0 0
+/
+54.212.105.125
+0 1 1 6927 1 1551870049 0 0
+/
+52.41.146.14
+0 1 1 6979 1 1552741138 0 0
+/
+31.184.238.215
+0 4 0 134224 1 1553888225 0 0
+-
+66.249.73.92
+0 9 8 170380 2 1553965756 0 0
+/rendicion-cuentas
+69.171.251.24
+0 6 6 432972 0 0 0 0
+-
+64.246.165.160
+0 2 2 7213 1 1552421896 0 0
+/
+34.217.114.114
+0 1 1 6977 1 1553949355 0 0
+/
+69.171.251.13
+0 11 10 628075 0 0 0 0
+-
+34.245.32.251
+0 1 1 6940 1 1551459378 0 0
+/
+66.249.66.74
+0 28 25 311159 6 1552766154 0 0
+/
+117.58.242.98
+0 1 1 30784 1 1553563593 0 0
+/
+173.252.95.1
+0 1 1 28177 0 0 0 0
+-
+46.166.137.200
+0 1 1 919 1 1551604830 0 0
+/
+163.172.251.241
+0 1 1 30766 1 1552921869 0 0
+/
+203.148.85.60
+0 1 0 33556 1 1553683083 0 0
+-
+66.249.65.115
+0 21 15 129186 7 1553954341 0 0
+/
+91.189.123.230
+0 1 0 33537 0 0 0 0
+-
+34.214.207.254
+0 35 34 2289442 1 1552907998 0 0
+/
+195.154.105.245
+0 1 1 30766 1 1553120219 0 0
+/
+201.240.180.31
+0 1 1 251867 0 0 0 0
+-
+18.237.48.58
+0 1 1 6981 1 1552485706 0 0
+/
+157.55.39.158
+0 1 1 6977 1 1553337845 0 0
+/
+100.35.75.170
+0 3 3 12131 1 1552171420 0 0
+/rendicion-cuentas
+178.162.216.48
+0 3 1 40981 1 1551688187 0 0
+-
+62.210.37.82
+0 1 1 6927 1 1552457548 0 0
+/
+66.249.65.119
+0 11 4 22572 2 1553890502 0 0
+/
+18.222.211.54
+0 4 0 134372 1 1552665352 0 0
+-
+181.129.7.106
+0 40 38 1028291 1 1551974635 0 0
+/mapa-turistico
+34.222.31.26
+0 1 1 6927 1 1552232101 0 0
+/
+66.249.88.182
+0 4 2 36872 0 0 0 0
+-
+173.252.95.23
+0 1 1 216949 0 0 0 0
+-
+34.213.252.71
+0 1 1 6983 1 1551446006 0 0
+/
+181.139.105.68
+0 82 51 3882274 4 1553233821 0 0
+/
+34.222.106.216
+0 1 1 6927 1 1551956477 0 0
+/
+194.39.227.3
+0 8 0 202184 1 1553368207 0 0
+-
+54.214.134.230
+0 1 1 6925 1 1552665702 0 0
+/
+82.165.224.76
+0 1 1 4843 1 1551995662 0 0
+/rendicion-cuentas
+178.128.233.222
+0 1 1 950 1 1553470793 0 0
+/
+54.38.159.90
+0 1 1 6925 1 1551691411 0 0
+/
+69.171.251.10
+0 6 5 227870 0 0 0 0
+-
+91.236.116.14
+0 1 1 6923 1 1553025372 0 0
+/
+66.249.66.26
+0 25 15 553754 11 1552980356 0 0
+/
+46.166.190.141
+0 1 1 915 1 1553320235 0 0
+/
+185.14.187.175
+0 1 0 33556 1 1551887908 0 0
+-
+23.129.64.106
+0 1 1 6933 1 1552477032 0 0
+/
+54.191.54.145
+0 1 1 6921 1 1551788485 0 0
+/
+157.55.39.22
+0 1 1 299 0 0 0 0
+-
+209.17.97.2
+0 1 1 30772 1 1552672287 0 0
+/
+46.166.190.158
+0 1 1 915 1 1552678943 0 0
+/
+66.249.73.88
+0 20 20 560665 4 1553941063 0 0
+/
+157.55.39.33
+0 1 1 299 0 0 0 0
+-
+209.17.96.210
+0 1 1 30772 1 1553660140 0 0
+/
+42.236.10.92
+0 4 4 84536 0 0 0 0
+-
+51.68.143.229
+0 1 1 6929 1 1552456881 0 0
+/
+18.237.234.155
+0 1 1 6985 1 1552660279 0 0
+/
+109.201.154.173
+0 1 1 915 1 1553788655 0 0
+/
+195.181.169.104
+0 3 1 40983 1 1553678539 0 0
+-
+173.252.95.34
+0 1 1 18513 0 0 0 0
+-
+193.106.30.98
+0 8 3 182881 8 1553990055 0 0
+-
+109.201.154.227
+0 1 1 923 1 1552678986 0 0
+/
+46.119.112.31
+0 22 2 733487 1 1551404819 0 0
+/
+42.236.10.75
+0 7 7 324541 1 1552959284 0 0
+/mapa-turistico
+46.229.168.138
+0 1 1 4798 1 1553955140 0 0
+/rendicion-cuentas
+202.66.174.83
+0 1 0 33556 1 1551877188 0 0
+-
+46.166.190.169
+0 1 1 915 1 1553891075 0 0
+/
+82.165.224.84
+0 1 1 299 0 0 0 0
+-
+34.216.217.214
+0 1 1 6981 1 1552228884 0 0
+/
+178.32.147.150
+0 1 1 6923 1 1552448850 0 0
+/
+66.249.88.40
+0 27 25 1286337 1 1552528005 0 0
+/
+157.55.39.66
+0 1 1 6977 1 1553615576 0 0
+/
+213.149.61.174
+0 8 0 202184 1 1553369619 0 0
+-
+23.129.64.105
+0 1 1 6929 1 1552457367 0 0
+/
+66.220.149.34
+0 1 1 216949 0 0 0 0
+-
+109.201.138.229
+0 1 1 262 0 0 0 0
+-
+195.176.3.24
+0 1 1 6935 1 1551466606 0 0
+/
+34.215.145.125
+0 1 1 6985 1 1553691311 0 0
+/
+82.165.224.112
+0 1 1 6977 1 1551995482 0 0
+/
+46.166.186.228
+0 1 1 262 0 0 0 0
+-
+51.15.80.14
+0 1 1 6933 1 1552458930 0 0
+/
+54.191.171.154
+0 1 1 6979 1 1552833145 0 0
+/
+109.70.100.25
+0 2 2 13846 2 1552464654 0 0
+/
+42.236.10.114
+0 12 12 559393 1 1553052328 0 0
+/
+42.236.10.117
+0 20 20 873717 0 0 0 0
+-
+34.219.109.105
+0 1 1 6927 1 1552579375 0 0
+/
+46.229.168.148
+0 2 1 40508 1 1552616301 0 0
+/
+186.86.148.102
+0 37 35 786784 1 1553719633 0 0
+/mapa-turistico
+185.217.0.138
+0 1 1 6925 1 1553608997 0 0
+/
+163.172.255.50
+0 1 1 30782 1 1553151384 0 0
+/
+54.218.176.254
+0 1 1 6985 1 1551882507 0 0
+/
+173.193.191.200
+0 1 1 6983 1 1551667272 0 0
+/
+34.240.85.199
+0 1 1 6921 1 1552174352 0 0
+/
+149.202.86.127
+0 2 2 13952 2 1552973160 0 0
+/
+190.232.221.68
+0 1 1 251867 0 0 0 0
+-
+50.112.18.109
+0 1 1 6923 1 1553273923 0 0
+/
+66.249.64.83
+0 12 10 305813 2 1552152272 0 0
+/
+94.230.208.147
+0 1 1 6921 1 1552449156 0 0
+/
+34.209.105.184
+0 1 1 6923 1 1553455254 0 0
+/
+199.249.230.86
+0 1 1 6925 1 1552460336 0 0
+/
+46.229.168.135
+0 1 1 262 0 0 0 0
+-
+178.62.74.6
+0 2 2 11742 1 1552742350 0 0
+/rendicion-cuentas
+109.201.154.164
+0 2 2 1832 2 1553757485 0 0
+/
+46.229.168.132
+0 1 1 262 0 0 0 0
+-
+54.190.124.248
+0 1 1 6981 1 1553348439 0 0
+/
+46.229.168.134
+0 1 1 262 0 0 0 0
+-
+46.166.186.193
+0 1 1 915 1 1552722401 0 0
+/
+54.188.169.47
+0 1 1 6925 1 1551696395 0 0
+/
+54.149.125.77
+0 1 1 6925 1 1552998179 0 0
+/
+66.249.64.151
+0 46 29 1791488 11 1553808233 0 0
+/
+46.118.126.68
+0 1 0 33515 1 1553019519 0 0
+-
+206.180.165.147
+0 1 1 6983 1 1552935200 0 0
+/
+73.80.68.189
+0 58 53 2872424 1 1551564687 0 0
+/mapa-turistico
+109.201.138.235
+0 1 1 919 1 1552723929 0 0
+/
+181.139.102.48
+0 3 1 74166 1 1553746012 0 0
+/
+66.249.66.25
+0 16 10 383533 3 1553012327 0 0
+/
+109.201.154.223
+0 1 1 919 1 1553255785 0 0
+/
+190.249.119.190
+0 48 44 3951287 1 1553784120 0 0
+/rendicion-cuentas
+34.219.219.94
+0 1 1 6921 1 1553093924 0 0
+/
+181.139.99.88
+0 4 2 77275 1 1553882455 0 0
+/
+66.249.64.218
+0 13 10 55049 8 1553617922 0 0
+/rendicion-cuentas
+157.55.39.152
+0 1 1 6977 1 1551923479 0 0
+/
+66.249.88.38
+0 25 21 1168547 2 1552599247 0 0
+/mapa-turistico
+157.55.39.207
+0 1 1 6981 1 1552561122 0 0
+/
+109.201.154.222
+0 1 1 915 1 1551617275 0 0
+/
+157.55.39.41
+0 1 1 299 0 0 0 0
+-
+171.25.193.20
+0 1 1 6923 1 1552466428 0 0
+/
+178.137.84.233
+0 22 2 733499 1 1553853498 0 0
+/
+181.139.55.180
+0 78 58 3355464 1 1552674259 0 0
+/
+52.11.71.44
+0 1 1 6985 1 1551528675 0 0
+/
+185.222.202.12
+0 1 1 6923 1 1552483612 0 0
+/
+66.220.149.15
+0 1 1 216949 0 0 0 0
+-
+66.249.66.64
+0 1 1 6986 1 1552407202 0 0
+/
+181.139.97.26
+0 35 31 2704874 1 1553472950 0 0
+/
+109.201.152.11
+0 2 2 1828 2 1553106017 0 0
+/
+142.4.210.110
+0 22 2 733491 1 1553696612 0 0
+/
+46.229.168.133
+0 1 0 33556 0 0 0 0
+-
+52.27.252.162
+0 1 1 6923 1 1552232617 0 0
+/
+46.166.190.145
+0 1 1 917 1 1553566164 0 0
+/
+69.171.251.21
+0 4 4 304704 0 0 0 0
+-
+52.12.253.77
+0 1 1 6925 1 1551523059 0 0
+/
+54.160.135.179
+0 1 1 6940 1 1551828595 0 0
+/
+190.28.106.122
+0 74 67 3871159 1 1551812258 0 0
+/mapa-turistico
+66.249.65.117
+0 22 17 190974 7 1553953144 0 0
+/rendicion-cuentas
+35.167.32.126
+0 1 1 6987 1 1552051922 0 0
+/
+18.236.240.122
+0 1 1 6977 1 1553171697 0 0
+/
+51.77.201.37
+0 1 1 6927 1 1552463031 0 0
+/
+94.243.220.77
+0 8 0 202184 1 1553368862 0 0
+-
+181.138.144.162
+0 36 35 780209 1 1551975685 0 0
+/mapa-turistico
+191.91.227.228
+0 139 91 5460865 6 1554059260 0 0
+/mapa-turistico
+34.229.108.240
+0 1 1 28121 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+191.91.227.228
+0 46 22 1676183 4 1554059260 0 0
+/mapa-turistico
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.coloniadelmunicipiodesanluis.org/assets/css/mdb.min.css
+0 19
+http://pizza-imperia.com/
+0 5
+http://coloniadelmunicipiodesanluis.org/mapa
+0 1
+http://pizza-tycoon.com/
+0 5
+http://coloniadelmunicipiodesanluis.org/php.php
+0 1
+http://coloniadelmunicipiodesanluis.org/assets/css/Control.FullScreen.css
+0 13
+https://google.com
+0 4
+http://www.coloniadelmunicipiodesanluis.org/assets/css/font-awesome.css
+0 3
+https://www.facebook.com/
+0 1
+http://coloniadelmunicipiodesanluis.org/assets/css/mdb.min.css
+0 64
+https://www.google.com/
+0 3
+- (Direct Request)
+0 831
+http://www.coloniadelmunicipiodesanluis.org/assets/css/leaflet-search.css
+0 2
+http://coloniadelmunicipiodesanluis.org/
+0 372
+http://coloniadelmunicipiodesanluis.org/documentation/ActadeAsambleaColonia.pdf
+0 1
+http://www.coloniadelmunicipiodesanluis.org/assets/css/iconLayers.css
+0 4
+http://coloniadelmunicipiodesanluis.org/administrator
+0 5
+http://www.coloniadelmunicipiodesanluis.org/
+0 109
+http://coloniadelmunicipiodesanluis.org/assets/images/map-icon-red.png
+0 1
+http://coloniadelmunicipiodesanluis.org/assets/css/leaflet-search.css
+0 13
+http://coloniadelmunicipiodesanluis.org/mapa-turistico
+0 359
+http://coloniadelmunicipiodesanluis.org/rendicion-cuentas
+0 33
+http://burger-imperia.com/
+0 4
+http://www.sanluis-antioquia.gov.co/
+0 4
+http://www.coloniadelmunicipiodesanluis.org/rendicion-cuentas
+0 13
+http://coloniadelmunicipiodesanluis.org/info.php
+0 1
+http://coloniadelmunicipiodesanluis.org/mapaturistico
+0 1
+http://coloniadelmunicipiodesanluis.org/phpinfo.php
+0 1
+http://coloniadelmunicipiodesanluis.org
+0 2
+http://www.sanluis-antioquia.gov.co/tema/turismo/donde-comer
+0 1
+http://www.coloniadelmunicipiodesanluis.org/mapa-turistico
+0 15
+https://uptime.com/www.coloniadelmunicipiodesanluis.org
+1 15
+https://uptime.com/coloniadelmunicipiodesanluis.org
+0 18
+http://coloniadelmunicipiodesanluis.org/assets/css/font-awesome.css
+0 20
+http://www.coloniadelmunicipiodesanluis.org/assets/css/Control.FullScreen.css
+0 1
+coloniadelmunicipiodesanluis.org
+0 1
+http://hundejo.com/
+0 7
+http://coloniadelmunicipiodesanluis.org/wp-login.php
+0 10
+http://coloniadelmunicipiodesanluis.org/php_test.php
+0 1
+http://coloniadelmunicipiodesanluis.org/assets/css/iconLayers.css
+0 130
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+0 98
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 48
+Mozilla/5.0 (Linux; Android 7.0; Moto C Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.3
+0 12
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 364
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G355M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36
+0 78
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 28
+panscient.com
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 162
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 284
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.66.19) Gecko/20177661 Firefox/45.66.19
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 35
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 2
+Go-http-client/1.1
+0 18
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.203.0 Safari/532.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 53
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+0 10
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 146
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:65.0) Gecko/20100101 Firefox/65.0
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 30
+Mozilla/5.0 (Linux; Android 7.0; TRT-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Mobile Safari/537.36
+0 12
+Scrapy/1.6.0 (+https://scrapy.org)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 9
+Mozilla
+0 2
+HTTPClient/1.0 (2.8.0, ruby 1.9.3 (2015-01-29))
+0 6
+crawler4j (https://github.com/yasserg/crawler4j/)
+0 3
+curl/7.58.0
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 4
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 1
+Python/3.6 aiohttp/3.4.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01 [en]
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 154
+Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0
+0 40
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 7
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+0 74
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 77
+Mozilla/5.0 (Windows NT 6.0; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+CATExplorador/1.0beta (sistemes at domini dot cat; http://domini.cat/catexplorador.html)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 6.0; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.53.06) Gecko/20165369 Firefox/52.53.06
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+0 111
+python-requests/2.18.4
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
